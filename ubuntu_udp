@@ -6,7 +6,7 @@ PASS='appsname_wiritunnelvpn';
 DBNAME='appsname_wiritunnelvpn';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=q6r4.viponevpn.xyz
+SUB_DOMAIN=cc66.viponevpn.xyz
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
